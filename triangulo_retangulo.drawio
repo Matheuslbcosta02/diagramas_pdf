@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T18:25:35.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="E8VfUyLgf25r-jJ4WuSn" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T18:27:42.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zU2Ytn_Fz9Z0EQb3GxCw" version="24.4.4" type="github">
   <diagram name="Página-1" id="GNvt4Gdq2-xz9XT1OcCQ">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="gqGpyMy61kaFkxbMwFYZ-1" value="&lt;b&gt;INICIO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqGpyMy61kaFkxbMwFYZ-3" value="inclua biblioteca matematica--&amp;gt; mat&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;funcao logico triangulo(real a,real b, real c){&lt;/div&gt;&lt;div&gt;a^2 = b^2 + c^2&lt;/div&gt;&lt;div&gt;logico teste = (a^2==b^2+c^2)&lt;/div&gt;&lt;div&gt;retorne logico&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="gqGpyMy61kaFkxbMwFYZ-3" value="inclua biblioteca matematica--&amp;gt; mat&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;funcao logico triangulo(real a,real b, real c){&lt;/div&gt;&lt;div&gt;a^2 = b^2 + c^2&lt;/div&gt;&lt;div&gt;logico teste = (a^2==b^2+c^2)&lt;/div&gt;&lt;div&gt;retorne &lt;b&gt;teste&lt;/b&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="30" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gqGpyMy61kaFkxbMwFYZ-5" value="real &lt;b&gt;hipotenusa&lt;/b&gt;&lt;div&gt;real &lt;b&gt;cateto1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;real &lt;b&gt;cateto2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;logico &lt;b&gt;resposta&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
