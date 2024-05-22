@@ -1,112 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T15:06:46.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7aO_ji3cMwY4pfRdBmkp" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T21:05:53.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="b5ZstPLooF6fT14OYWPJ" version="24.4.4" type="github">
   <diagram name="Página-1" id="WvLcixPSottXibt74OFg">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-1">
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="60" as="targetPoint" />
+            <mxPoint x="520" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-1">
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="120" as="targetPoint" />
+            <mxPoint x="310" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-1">
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="60" as="targetPoint" />
+            <mxPoint x="414" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-1" value="&lt;b&gt;INICIO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-40" value="&lt;b&gt;INICIO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-3" value="&lt;b&gt;cadeia nomes[]&lt;/b&gt;&lt;div&gt;cadeia &lt;b&gt;resposta&lt;/b&gt;&lt;/div&gt;&lt;div&gt;inteiro &lt;b&gt;tamanhovetor&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-42" value="&lt;b&gt;cadeia nomes[100]&lt;/b&gt;&lt;div&gt;&lt;b&gt;cadeia resposta&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;inteiro contador&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;inteiro tamanholista&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-5">
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-44" value="inclua biblioteca Util&amp;nbsp;&lt;div&gt;--&amp;gt;u&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="240" as="targetPoint" />
+            <mxPoint x="414" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-5" value="Olá, você gostaria de adicionar nomes na sua lista? Você pode adicionar até 100 pessoas! (Digite sim) para prosseguir ou (digite não) para sair." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="110" width="152" height="100" as="geometry" />
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-46" value="para(inteiro i = 0; i&amp;lt;100;i++){&lt;div&gt;nomes[i] = &quot;VAZIO&quot; }&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-8">
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="320" as="targetPoint" />
+            <mxPoint x="414" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-8" value="se (resposta == &quot;sim&quot; ou resposta==&quot;SIM&quot; ou resposta==&quot;Sim&quot;)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="210" width="130" height="85" as="geometry" />
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-48" value="Você quer adicionar nomes na lista? (Digite s) para sim ou (digite n) para não:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-10" target="Iz_aCx__dZbMv9vCKncL-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-10" target="Iz_aCx__dZbMv9vCKncL-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-10">
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="300" as="targetPoint" />
+            <mxPoint x="414" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-10" value="&lt;b&gt;resposta &lt;/b&gt;&amp;lt;-- entrada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="240" width="120" height="30" as="geometry" />
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-50" value="&lt;b&gt;resposta &amp;lt;-- entrada&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-11" value="senao se (resposta==&quot;não&quot; ou resposta==&quot;NÃO&quot; ou resposta==&quot;Não&quot;)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="210" width="130" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-15" target="Iz_aCx__dZbMv9vCKncL-17">
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="440" as="targetPoint" />
+            <mxPoint x="414" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-15" value="senao {&lt;div&gt;escreva(&quot;Sua resposta é inválida&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-52" value="enquanto((resposta==&quot;s&quot; ou (resposta==&quot;S&quot;)){&lt;div&gt;escreva&quot;Adicione um nome na sua lista:\n&quot;&lt;/div&gt;&lt;div&gt;leia(nomes[contador])&lt;/div&gt;&lt;div&gt;contador=contador+1&lt;/div&gt;&lt;div&gt;escreva&quot;Deseja prosseguir? (Digite s) para sim ou (digite n) para não:&quot;&lt;/div&gt;&lt;div&gt;leia(resposta)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="400" width="254" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-17" value="&lt;b&gt;FIM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-20" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;enquanto(resposta != &quot;não&quot; ou &#xa;resposta != &quot;Não&quot;&#xa; ou resposta != &quot;NÃO&quot;){&#xa;&#xa;para(i=0; i&lt;100; i++){&#xa;escreva(&quot;Você ainda quer adicionar nomes?&quot;\n)&#xa;leia(resposta)&#xa;escreva(&quot;Preencha sua lista\n:&quot;)&#xa;leia(nomes[i]) }&#xa;}&#xa;" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="30" y="320" width="285" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-23" value="&lt;b&gt;tamanhovetor = u.numero_elementos (nomes)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Iz_aCx__dZbMv9vCKncL-20">
-          <mxGeometry x="-2.5" y="200" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-26" value="&lt;b&gt;para(i=tamanhovetor+1; i&amp;lt;100;i++){&lt;/b&gt;&lt;div&gt;&lt;b&gt;nomes[i] = &quot;VAZIO&quot;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Iz_aCx__dZbMv9vCKncL-20">
-          <mxGeometry x="32.5" y="245" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-27" value="&lt;b&gt;escreva(&quot;LISTA NOMES\n&quot;)&lt;/b&gt;&lt;div&gt;&lt;b&gt;escreva(&quot;--------------------------------\n\n&quot;)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;para(i=0; i&amp;lt;100 ; i++){&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;escreva(nomes[i])&quot;\n&quot;)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Iz_aCx__dZbMv9vCKncL-20">
-          <mxGeometry x="15" y="300" width="240" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-22" value="inclua biblioteca&lt;div&gt;&amp;nbsp;Util --&amp;gt; u&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-20" target="Iz_aCx__dZbMv9vCKncL-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="520" as="sourcePoint" />
-            <mxPoint x="440" y="470" as="targetPoint" />
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.017;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-20" target="Iz_aCx__dZbMv9vCKncL-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="720" as="sourcePoint" />
-            <mxPoint x="440" y="670" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="818" />
-            </Array>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-54" value="tamanholista = u.numero_elementos(nomes)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iz_aCx__dZbMv9vCKncL-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-11" target="Iz_aCx__dZbMv9vCKncL-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="520" as="sourcePoint" />
-            <mxPoint x="440" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="810" />
-            </Array>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-56" value="escreva(&quot;Lista finalizada você possui&quot;,tamanholista,&quot;\n&quot;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="660" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="870" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-58" value="escreva(&quot;LISTA DE NOMES\n\n&quot;)&lt;div&gt;escreva(&quot;---------------&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321.5" y="770" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iz_aCx__dZbMv9vCKncL-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-60" value="para(inteiro i = 0; i&amp;lt;100; i++){&lt;div&gt;escreva(nomes[i],&quot;\n&quot;)&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iz_aCx__dZbMv9vCKncL-62" value="&lt;b&gt;FIM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
