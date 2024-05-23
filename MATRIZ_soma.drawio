@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T02:28:07.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.6" etag="4S62GoD1AkFBCzKuMLDx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T02:58:06.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QohCs2FpNhmild3016Oz" version="24.4.6" type="github">
   <diagram name="Página-1" id="tVF3IE6NfxoX46WaIEN7">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yXxl7fko-1Pc8aINExcv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-1" value="&lt;b&gt;INICIO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-3" value="inteiro matriz1 [2][2]&lt;div&gt;inteiro matriz2 [2][2]&lt;/div&gt;&lt;div&gt;inteiro matriz_soma [2][2]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-6" value="para(inteiro i = 0; i&amp;lt;2;i++){&lt;div&gt;para(inteiro j = 0;j&amp;lt;2;j++){&lt;/div&gt;&lt;div&gt;leia(matriz1[i][j]) }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="230" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-7" target="yXxl7fko-1Pc8aINExcv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-7" value="Olá insira os valores para a primeira matriz:\n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-10" value="Agora insira os valores para segunda matriz:\n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-12" value="para(inteiro i = 0; i&amp;lt;2;i++){&lt;div&gt;para(inteiro j = 0;j&amp;lt;2;j++){&lt;/div&gt;&lt;div&gt;leia(matriz2 [i][j]) }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="440" width="156" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-6" target="yXxl7fko-1Pc8aINExcv-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="190" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="276" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-15" value="&lt;b&gt;matriz1 &lt;/b&gt;&amp;lt;-- entrada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-16" value="&lt;b&gt;matriz2 &lt;/b&gt;&amp;lt;-- entrada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-12" target="yXxl7fko-1Pc8aINExcv-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="543" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="280" y="645" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-19" value="para(inteiro i = 0;i&amp;lt;2;i++){&lt;br&gt;para(inteiro j = 0;j&amp;lt;2;j++){&lt;div&gt;matriz_soma[i] [j] = matriz1 [i] [j] + matriz2 [i] [j]&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="695" width="270" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-21" target="yXxl7fko-1Pc8aINExcv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-21" value="escrever matrizes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yXxl7fko-1Pc8aINExcv-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-23" value="A soma dessas matrizes é:&lt;div&gt;escrever&lt;br&gt;&lt;div&gt;&lt;b&gt;matriz_soma&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-26" value="&lt;b&gt;FIM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXxl7fko-1Pc8aINExcv-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;MATRIZES_SOMA&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=default;labelBackgroundColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="75" y="60" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
