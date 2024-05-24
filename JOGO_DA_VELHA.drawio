@@ -1,9 +1,151 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T14:25:33.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.6" etag="0HghZYMFP7umZfYJZW-y" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T14:47:25.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6_qd4ofi2hHnbNiiwMtz" version="24.4.6" type="github">
   <diagram name="Página-1" id="oBpRBkI9CEcoGbXAevXn">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-1" value="&lt;b&gt;INICIO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-3" value="inteiro jogador&lt;div&gt;inteiro numero_jogadas&lt;/div&gt;&lt;div&gt;inteiro vencedor = 0&lt;/div&gt;&lt;div&gt;caracter tabuleiro [3] [3]&lt;/div&gt;&lt;div&gt;inteiro linha&lt;/div&gt;&lt;div&gt;inteiro coluna&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-5" target="3qCJ6fa3HSwjSAGRzaAe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-5" value="preencher tabuleiro com &#39; &#39; , e apresentar aos jogadores." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-7" value="&lt;b&gt;enquanto(vencedor==0 e numero_jogadas&amp;lt;9)&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="180" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-11" value="laço de repetição para receber linha e coluna dos usuários:&lt;div&gt;Vai alternando jogador=1 , jogador = 2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="260" width="136" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-14" value="linha&amp;lt;- entrada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-15" value="coluna&amp;lt;- entrada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-17" value="verificar vencedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-19" value="laço de repetição para uma coluna fixa, se os valores de [0][i]&lt;div&gt;[1][i] [2][i] forem iguais vencedor para linha a mesma ideia. E fazer para as diagonais.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="500" width="146" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-22" value="se for &lt;b&gt;X&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-23" value="se for &lt;b&gt;O&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-27" value="vencedor=1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-28" value="vencedor=2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-30" value="Se der velha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-32" value="vencedor=0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="720" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.433;exitY=1.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="660" as="sourcePoint" />
+            <mxPoint x="350" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3qCJ6fa3HSwjSAGRzaAe-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="660" as="sourcePoint" />
+            <mxPoint x="480" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-36" value="&lt;b&gt;FIM&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qCJ6fa3HSwjSAGRzaAe-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;JOGO&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;DA&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VELHA&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=default;labelBackgroundColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="20" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
